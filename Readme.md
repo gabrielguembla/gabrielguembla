@@ -1,4 +1,4 @@
-[![Gabriel's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla&show_icons=true&hide=stars&show=contributions,all_time_contribs,prs_reviewed,issues&commits_year=2022&commits_year=2023&commits_year=2024&commits_year=2025&commits_year=2026&title_color=FAF0DB&text_color=FAF0DB&bg_color=0,D80100,DC0000&border_color=FCEFDD&border_radius=5&icon_color=020203&ring_color_dark=FCEFDD&ring_color_light=FCEFDD)](https://github.com/stats-organization/github-stats-extended)
+[![Gabriel's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla&show_icons=true&hide=stars&show=contributions,all_time_contribs,prs_reviewed,issues&commits_year=2022&commits_year=2023&commits_year=2024&commits_year=2025&commits_year=2026&title_color=FAF0DB&text_color=FAF0DB&bg_color=-30,D80100,DC0000&border_color=FCEFDD&border_radius=5&icon_color=020203&ring_color_dark=FCEFDD&ring_color_light=FCEFDD)](https://github.com/stats-organization/github-stats-extended)
 
 
 [![Gabriel's GitHub Stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla&show_icons=true)]
