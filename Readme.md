@@ -6,8 +6,8 @@
 
 
 > ### Versão | Version
-> - [Português](https://github.com/gabrielnmiguel#englishSection#portugueseSection "Clique em mim")
-> - [English](https://github.com/gabrielnmiguel#englishSection#englishSection "Click Here")
+> - [Português](https://github.com/gabrielguembla#englishSection#portugueseSection "Clique em mim")
+> - [English](https://github.com/gabrielguembla#englishSection#englishSection "Click Here")
 
 # Bem-vindo ao meu GitHub! {#portugueseSection}
 
