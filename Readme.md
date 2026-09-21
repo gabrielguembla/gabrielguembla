@@ -1,4 +1,7 @@
-[![Gabriel's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla)](https://github.com/stats-organization/github-stats-extended)
+[![Gabriel's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla&hide=stars&show=contributions,all_time_contribsprs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+
+
+[![Gabriel's GitHub Stats](https://github-stats-extended.vercel.app/api?username=gabrielguembla&show_icons=true)]
 
 
 
