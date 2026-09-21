@@ -22,6 +22,14 @@ Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielguembla)](https://github.com/stats-organization/github-stats-extended)
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=type-trident)](https://github.com/anuraghazra/type-trident)
+
+
+[![Gist Card](https://github-stats-extended.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan)](https://wakatime.com/@alan)
+
 ## Observações
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
