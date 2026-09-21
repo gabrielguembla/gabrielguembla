@@ -19,6 +19,9 @@ Acesse o seguinte caminho e sinta-se à vontade para acessa-lo.
 [Portfólio Gabriel Guembla](https://gabrielguembla.github.io/portfolio/ "Clique em mim")
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielnmiguel&repo=portfolio)](https://github.com/gabrielnmiguel/portfolio)
 
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=gabrielguembla)](https://github.com/stats-organization/github-stats-extended)
+
 ## Observações
 
 Eu utilizarei esse ambiente para reunir aqui alguns projetos que julgo relevante, e aproveitarei para partilha-los com vocês.
